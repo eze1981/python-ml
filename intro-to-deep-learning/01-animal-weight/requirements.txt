@@ -1,0 +1,4 @@
+# dependencies
+pandas
+sklearn
+matplotlib

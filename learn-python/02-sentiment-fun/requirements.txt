@@ -1,0 +1,8 @@
+# dependencies
+tweepy
+textblob
+
+
+
+
+
